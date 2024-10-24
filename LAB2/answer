@@ -1,1 +1,0 @@
-Answer: These two constructors have the same number and type of parameters, which will cause an error. To distinguish between constructors, they must have different signatures.
